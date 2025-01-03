@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\bin\Debug\net8.0\Month Printer.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\bin\Debug\net8.0\Month Printer.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\bin\Debug\net8.0\Month Printer.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\bin\Debug\net8.0\Month Printer.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\bin\Debug\net8.0\Month Printer.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\obj\Debug\net8.0\Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\obj\Debug\net8.0\Month Printer.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\obj\Debug\net8.0\Month Printer.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\obj\Debug\net8.0\Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\obj\Debug\net8.0\Month Printer.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\obj\Debug\net8.0\refint\Month Printer.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\obj\Debug\net8.0\Month Printer.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\obj\Debug\net8.0\Month Printer.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\Month Printer\obj\Debug\net8.0\ref\Month Printer.dll

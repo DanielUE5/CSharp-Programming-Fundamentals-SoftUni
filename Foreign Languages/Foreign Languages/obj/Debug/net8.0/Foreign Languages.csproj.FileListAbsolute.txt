@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\bin\Debug\net8.0\Foreign Languages.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\bin\Debug\net8.0\Foreign Languages.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\bin\Debug\net8.0\Foreign Languages.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\bin\Debug\net8.0\Foreign Languages.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\bin\Debug\net8.0\Foreign Languages.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\obj\Debug\net8.0\Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\obj\Debug\net8.0\Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\obj\Debug\net8.0\Foreign Languages.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\obj\Debug\net8.0\Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\obj\Debug\net8.0\Foreign Languages.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\obj\Debug\net8.0\refint\Foreign Languages.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\obj\Debug\net8.0\Foreign Languages.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\obj\Debug\net8.0\Foreign Languages.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\Foreign Languages\obj\Debug\net8.0\ref\Foreign Languages.dll
