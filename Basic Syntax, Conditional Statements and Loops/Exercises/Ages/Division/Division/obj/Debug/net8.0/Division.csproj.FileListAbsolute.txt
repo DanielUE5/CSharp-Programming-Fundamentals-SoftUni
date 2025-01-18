@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\bin\Debug\net8.0\Division.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\bin\Debug\net8.0\Division.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\bin\Debug\net8.0\Division.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\bin\Debug\net8.0\Division.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\bin\Debug\net8.0\Division.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\obj\Debug\net8.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\obj\Debug\net8.0\Division.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\obj\Debug\net8.0\Division.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\obj\Debug\net8.0\Division.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\obj\Debug\net8.0\Division.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\obj\Debug\net8.0\refint\Division.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\obj\Debug\net8.0\Division.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\obj\Debug\net8.0\Division.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Ages\Division\Division\obj\Debug\net8.0\ref\Division.dll
