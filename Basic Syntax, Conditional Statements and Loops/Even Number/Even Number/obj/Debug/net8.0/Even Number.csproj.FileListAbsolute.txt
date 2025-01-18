@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\bin\Debug\net8.0\Even Number.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\bin\Debug\net8.0\Even Number.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\bin\Debug\net8.0\Even Number.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\bin\Debug\net8.0\Even Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\bin\Debug\net8.0\Even Number.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\obj\Debug\net8.0\Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\obj\Debug\net8.0\Even Number.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\obj\Debug\net8.0\Even Number.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\obj\Debug\net8.0\Even Number.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\obj\Debug\net8.0\Even Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\obj\Debug\net8.0\refint\Even Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\obj\Debug\net8.0\Even Number.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\obj\Debug\net8.0\Even Number.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Even Number\Even Number\obj\Debug\net8.0\ref\Even Number.dll
