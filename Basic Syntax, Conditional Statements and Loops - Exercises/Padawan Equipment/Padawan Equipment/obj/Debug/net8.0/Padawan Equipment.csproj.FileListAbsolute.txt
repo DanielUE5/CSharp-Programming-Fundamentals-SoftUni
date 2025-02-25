@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\bin\Debug\net8.0\Padawan Equipment.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\bin\Debug\net8.0\Padawan Equipment.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\bin\Debug\net8.0\Padawan Equipment.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\bin\Debug\net8.0\Padawan Equipment.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\bin\Debug\net8.0\Padawan Equipment.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\obj\Debug\net8.0\Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\obj\Debug\net8.0\Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\obj\Debug\net8.0\Padawan Equipment.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\obj\Debug\net8.0\Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\obj\Debug\net8.0\Padawan Equipment.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\obj\Debug\net8.0\refint\Padawan Equipment.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\obj\Debug\net8.0\Padawan Equipment.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\obj\Debug\net8.0\Padawan Equipment.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Padawan Equipment\Padawan Equipment\obj\Debug\net8.0\ref\Padawan Equipment.dll
