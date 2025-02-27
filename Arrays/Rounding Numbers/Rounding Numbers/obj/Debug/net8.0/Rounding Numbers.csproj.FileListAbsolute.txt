@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\bin\Debug\net8.0\Rounding Numbers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\bin\Debug\net8.0\Rounding Numbers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\bin\Debug\net8.0\Rounding Numbers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\bin\Debug\net8.0\Rounding Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\bin\Debug\net8.0\Rounding Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\obj\Debug\net8.0\Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\obj\Debug\net8.0\Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\obj\Debug\net8.0\Rounding Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\obj\Debug\net8.0\Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\obj\Debug\net8.0\Rounding Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\obj\Debug\net8.0\refint\Rounding Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\obj\Debug\net8.0\Rounding Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\obj\Debug\net8.0\Rounding Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Rounding Numbers\Rounding Numbers\obj\Debug\net8.0\ref\Rounding Numbers.dll
