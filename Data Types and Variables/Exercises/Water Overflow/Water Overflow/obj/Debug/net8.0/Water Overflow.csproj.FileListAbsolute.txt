@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\bin\Debug\net8.0\Water Overflow.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\bin\Debug\net8.0\Water Overflow.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\bin\Debug\net8.0\Water Overflow.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\bin\Debug\net8.0\Water Overflow.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\bin\Debug\net8.0\Water Overflow.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\obj\Debug\net8.0\Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\obj\Debug\net8.0\Water Overflow.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\obj\Debug\net8.0\Water Overflow.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\obj\Debug\net8.0\Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\obj\Debug\net8.0\Water Overflow.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\obj\Debug\net8.0\refint\Water Overflow.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\obj\Debug\net8.0\Water Overflow.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\obj\Debug\net8.0\Water Overflow.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Water Overflow\Water Overflow\obj\Debug\net8.0\ref\Water Overflow.dll

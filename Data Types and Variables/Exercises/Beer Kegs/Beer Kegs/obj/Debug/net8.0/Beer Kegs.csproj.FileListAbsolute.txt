@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\bin\Debug\net8.0\Beer Kegs.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\bin\Debug\net8.0\Beer Kegs.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\bin\Debug\net8.0\Beer Kegs.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\bin\Debug\net8.0\Beer Kegs.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\bin\Debug\net8.0\Beer Kegs.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\obj\Debug\net8.0\Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\obj\Debug\net8.0\Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\obj\Debug\net8.0\Beer Kegs.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\obj\Debug\net8.0\Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\obj\Debug\net8.0\Beer Kegs.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\obj\Debug\net8.0\refint\Beer Kegs.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\obj\Debug\net8.0\Beer Kegs.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\obj\Debug\net8.0\Beer Kegs.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Beer Kegs\Beer Kegs\obj\Debug\net8.0\ref\Beer Kegs.dll
