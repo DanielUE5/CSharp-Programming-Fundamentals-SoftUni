@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\bin\Debug\net9.0\Even and Odd Subtraction.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\bin\Debug\net9.0\Even and Odd Subtraction.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\bin\Debug\net9.0\Even and Odd Subtraction.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\bin\Debug\net9.0\Even and Odd Subtraction.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\bin\Debug\net9.0\Even and Odd Subtraction.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\obj\Debug\net9.0\Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\obj\Debug\net9.0\Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\obj\Debug\net9.0\Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\obj\Debug\net9.0\Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\obj\Debug\net9.0\Even and Odd Subtraction.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\obj\Debug\net9.0\refint\Even and Odd Subtraction.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\obj\Debug\net9.0\Even and Odd Subtraction.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\obj\Debug\net9.0\Even and Odd Subtraction.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Even and Odd Subtraction\Even and Odd Subtraction\obj\Debug\net9.0\ref\Even and Odd Subtraction.dll
