@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\bin\Debug\net8.0\Triples of Latin Letters.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\bin\Debug\net8.0\Triples of Latin Letters.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\bin\Debug\net8.0\Triples of Latin Letters.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\bin\Debug\net8.0\Triples of Latin Letters.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\bin\Debug\net8.0\Triples of Latin Letters.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\obj\Debug\net8.0\Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\obj\Debug\net8.0\Triples of Latin Letters.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\obj\Debug\net8.0\Triples of Latin Letters.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\obj\Debug\net8.0\Triples of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\obj\Debug\net8.0\Triples of Latin Letters.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\obj\Debug\net8.0\refint\Triples of Latin Letters.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\obj\Debug\net8.0\Triples of Latin Letters.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\obj\Debug\net8.0\Triples of Latin Letters.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Triples of Latin Letters\Triples of Latin Letters\obj\Debug\net8.0\ref\Triples of Latin Letters.dll

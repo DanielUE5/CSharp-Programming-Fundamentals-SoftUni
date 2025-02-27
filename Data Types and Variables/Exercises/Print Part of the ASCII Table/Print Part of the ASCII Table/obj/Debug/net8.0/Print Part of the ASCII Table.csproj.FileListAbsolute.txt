@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\bin\Debug\net8.0\Print Part of the ASCII Table.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\bin\Debug\net8.0\Print Part of the ASCII Table.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\bin\Debug\net8.0\Print Part of the ASCII Table.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\bin\Debug\net8.0\Print Part of the ASCII Table.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\bin\Debug\net8.0\Print Part of the ASCII Table.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\net8.0\Print Part of the ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\net8.0\Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\net8.0\Print Part of the ASCII Table.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\net8.0\Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\net8.0\Print Part of the ASCII Table.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\net8.0\refint\Print Part of the ASCII Table.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\net8.0\Print Part of the ASCII Table.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\net8.0\Print Part of the ASCII Table.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\net8.0\ref\Print Part of the ASCII Table.dll
