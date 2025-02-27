@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\net8.0\Pounds to Dollars.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\net8.0\Pounds to Dollars.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\net8.0\Pounds to Dollars.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\net8.0\Pounds to Dollars.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\bin\Debug\net8.0\Pounds to Dollars.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\net8.0\refint\Pounds to Dollars.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\net8.0\Pounds to Dollars.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Pounds to Dollars\Pounds to Dollars\obj\Debug\net8.0\ref\Pounds to Dollars.dll
