@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\bin\Debug\net8.0\Sum Digits.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\bin\Debug\net8.0\Sum Digits.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\bin\Debug\net8.0\Sum Digits.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\bin\Debug\net8.0\Sum Digits.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\bin\Debug\net8.0\Sum Digits.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\obj\Debug\net8.0\Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\obj\Debug\net8.0\Sum Digits.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\obj\Debug\net8.0\Sum Digits.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\obj\Debug\net8.0\Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\obj\Debug\net8.0\Sum Digits.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\obj\Debug\net8.0\refint\Sum Digits.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\obj\Debug\net8.0\Sum Digits.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\obj\Debug\net8.0\Sum Digits.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Exercises\Sum Digits\Sum Digits\obj\Debug\net8.0\ref\Sum Digits.dll
