@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\net8.0\Sum Even Numbers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\net8.0\Sum Even Numbers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\net8.0\Sum Even Numbers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\net8.0\Sum Even Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\bin\Debug\net8.0\Sum Even Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\net8.0\Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\net8.0\Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\net8.0\Sum Even Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\net8.0\Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\net8.0\Sum Even Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\net8.0\refint\Sum Even Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\net8.0\Sum Even Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\net8.0\Sum Even Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sum Even Numbers\Sum Even Numbers\obj\Debug\net8.0\ref\Sum Even Numbers.dll
