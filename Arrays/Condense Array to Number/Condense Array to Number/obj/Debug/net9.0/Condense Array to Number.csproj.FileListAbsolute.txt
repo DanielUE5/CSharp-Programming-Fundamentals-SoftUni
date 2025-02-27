@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\bin\Debug\net9.0\Condense Array to Number.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\bin\Debug\net9.0\Condense Array to Number.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\bin\Debug\net9.0\Condense Array to Number.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\bin\Debug\net9.0\Condense Array to Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\bin\Debug\net9.0\Condense Array to Number.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\obj\Debug\net9.0\Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\obj\Debug\net9.0\Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\obj\Debug\net9.0\Condense Array to Number.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\obj\Debug\net9.0\Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\obj\Debug\net9.0\Condense Array to Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\obj\Debug\net9.0\refint\Condense Array to Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\obj\Debug\net9.0\Condense Array to Number.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\obj\Debug\net9.0\Condense Array to Number.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Condense Array to Number\Condense Array to Number\obj\Debug\net9.0\ref\Condense Array to Number.dll
