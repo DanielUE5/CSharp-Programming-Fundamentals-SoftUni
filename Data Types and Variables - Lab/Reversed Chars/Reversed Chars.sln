@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed Chars", "Reversed Chars\Reversed Chars.csproj", "{9563BEFA-3D08-4C00-AA24-CFACFEEEAAF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9563BEFA-3D08-4C00-AA24-CFACFEEEAAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9563BEFA-3D08-4C00-AA24-CFACFEEEAAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9563BEFA-3D08-4C00-AA24-CFACFEEEAAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9563BEFA-3D08-4C00-AA24-CFACFEEEAAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589D5578-5874-4DF5-B846-31C7E38D731C}
+	EndGlobalSection
+EndGlobal

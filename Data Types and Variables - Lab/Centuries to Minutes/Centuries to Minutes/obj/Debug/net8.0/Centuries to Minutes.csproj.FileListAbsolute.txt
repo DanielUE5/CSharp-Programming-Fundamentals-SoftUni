@@ -1,0 +1,28 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\refint\Centuries to Minutes.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Convert Meters to Kilometers\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\ref\Centuries to Minutes.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\bin\Debug\net8.0\Centuries to Minutes.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\refint\Centuries to Minutes.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\Centuries to Minutes.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Centuries to Minutes\Centuries to Minutes\obj\Debug\net8.0\ref\Centuries to Minutes.dll

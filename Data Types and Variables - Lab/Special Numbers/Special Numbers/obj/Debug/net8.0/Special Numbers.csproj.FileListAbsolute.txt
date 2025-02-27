@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\bin\Debug\net8.0\Special Numbers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\bin\Debug\net8.0\Special Numbers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\bin\Debug\net8.0\Special Numbers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\bin\Debug\net8.0\Special Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\bin\Debug\net8.0\Special Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\obj\Debug\net8.0\Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\obj\Debug\net8.0\Special Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\obj\Debug\net8.0\Special Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\obj\Debug\net8.0\Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\obj\Debug\net8.0\Special Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\obj\Debug\net8.0\refint\Special Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\obj\Debug\net8.0\Special Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\obj\Debug\net8.0\Special Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\Special Numbers\Special Numbers\obj\Debug\net8.0\ref\Special Numbers.dll
