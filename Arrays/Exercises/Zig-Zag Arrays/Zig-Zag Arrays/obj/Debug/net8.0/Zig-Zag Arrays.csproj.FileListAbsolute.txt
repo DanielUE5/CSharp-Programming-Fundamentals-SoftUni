@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\net8.0\Zig-Zag Arrays.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\net8.0\Zig-Zag Arrays.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\net8.0\Zig-Zag Arrays.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\net8.0\Zig-Zag Arrays.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\bin\Debug\net8.0\Zig-Zag Arrays.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\net8.0\Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\net8.0\Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\net8.0\Zig-Zag Arrays.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\net8.0\Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\net8.0\Zig-Zag Arrays.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\net8.0\refint\Zig-Zag Arrays.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\net8.0\Zig-Zag Arrays.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\net8.0\Zig-Zag Arrays.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Zig-Zag Arrays\Zig-Zag Arrays\obj\Debug\net8.0\ref\Zig-Zag Arrays.dll

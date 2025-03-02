@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\bin\Debug\net8.0\Common Elements.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\bin\Debug\net8.0\Common Elements.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\bin\Debug\net8.0\Common Elements.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\bin\Debug\net8.0\Common Elements.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\bin\Debug\net8.0\Common Elements.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\obj\Debug\net8.0\Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\obj\Debug\net8.0\Common Elements.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\obj\Debug\net8.0\Common Elements.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\obj\Debug\net8.0\Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\obj\Debug\net8.0\Common Elements.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\obj\Debug\net8.0\refint\Common Elements.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\obj\Debug\net8.0\Common Elements.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\obj\Debug\net8.0\Common Elements.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Common Elements\Common Elements\obj\Debug\net8.0\ref\Common Elements.dll
