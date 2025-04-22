@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\bin\Debug\net8.0\Top Integers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\bin\Debug\net8.0\Top Integers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\bin\Debug\net8.0\Top Integers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\bin\Debug\net8.0\Top Integers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\bin\Debug\net8.0\Top Integers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\obj\Debug\net8.0\Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\obj\Debug\net8.0\Top Integers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\obj\Debug\net8.0\Top Integers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\obj\Debug\net8.0\Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\obj\Debug\net8.0\Top Integers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\obj\Debug\net8.0\refint\Top Integers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\obj\Debug\net8.0\Top Integers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\obj\Debug\net8.0\Top Integers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Exercises\Top Integers\Top Integers\obj\Debug\net8.0\ref\Top Integers.dll
