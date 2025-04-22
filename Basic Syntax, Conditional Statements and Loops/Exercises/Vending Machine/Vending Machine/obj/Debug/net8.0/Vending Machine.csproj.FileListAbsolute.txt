@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\bin\Debug\net8.0\Vending Machine.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\bin\Debug\net8.0\Vending Machine.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\bin\Debug\net8.0\Vending Machine.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\bin\Debug\net8.0\Vending Machine.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\bin\Debug\net8.0\Vending Machine.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\obj\Debug\net8.0\Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\obj\Debug\net8.0\Vending Machine.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\obj\Debug\net8.0\Vending Machine.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\obj\Debug\net8.0\Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\obj\Debug\net8.0\Vending Machine.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\obj\Debug\net8.0\refint\Vending Machine.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\obj\Debug\net8.0\Vending Machine.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\obj\Debug\net8.0\Vending Machine.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Vending Machine\Vending Machine\obj\Debug\net8.0\ref\Vending Machine.dll

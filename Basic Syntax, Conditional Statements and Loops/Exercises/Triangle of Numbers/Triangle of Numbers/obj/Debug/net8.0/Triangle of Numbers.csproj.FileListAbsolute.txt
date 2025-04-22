@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\bin\Debug\net8.0\Triangle of Numbers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\bin\Debug\net8.0\Triangle of Numbers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\bin\Debug\net8.0\Triangle of Numbers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\bin\Debug\net8.0\Triangle of Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\bin\Debug\net8.0\Triangle of Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\obj\Debug\net8.0\Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\obj\Debug\net8.0\Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\obj\Debug\net8.0\Triangle of Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\obj\Debug\net8.0\Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\obj\Debug\net8.0\Triangle of Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\obj\Debug\net8.0\refint\Triangle of Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\obj\Debug\net8.0\Triangle of Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\obj\Debug\net8.0\Triangle of Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercises\Triangle of Numbers\Triangle of Numbers\obj\Debug\net8.0\ref\Triangle of Numbers.dll
