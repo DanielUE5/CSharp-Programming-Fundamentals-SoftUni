@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\bin\Debug\net9.0\Math Operations.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\bin\Debug\net9.0\Math Operations.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\bin\Debug\net9.0\Math Operations.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\bin\Debug\net9.0\Math Operations.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\bin\Debug\net9.0\Math Operations.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\obj\Debug\net9.0\Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\obj\Debug\net9.0\Math Operations.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\obj\Debug\net9.0\Math Operations.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\obj\Debug\net9.0\Math Operations.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\obj\Debug\net9.0\Math Operations.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\obj\Debug\net9.0\refint\Math Operations.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\obj\Debug\net9.0\Math Operations.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\obj\Debug\net9.0\Math Operations.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Math Operations\Math Operations\obj\Debug\net9.0\ref\Math Operations.dll

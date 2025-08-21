@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\net9.0\Multiply Evens by Odds.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\net9.0\Multiply Evens by Odds.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\net9.0\Multiply Evens by Odds.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\net9.0\Multiply Evens by Odds.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\net9.0\Multiply Evens by Odds.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\net9.0\Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\net9.0\Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\net9.0\Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\net9.0\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\net9.0\Multiply Evens by Odds.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\net9.0\refint\Multiply Evens by Odds.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\net9.0\Multiply Evens by Odds.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\net9.0\Multiply Evens by Odds.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\net9.0\ref\Multiply Evens by Odds.dll
