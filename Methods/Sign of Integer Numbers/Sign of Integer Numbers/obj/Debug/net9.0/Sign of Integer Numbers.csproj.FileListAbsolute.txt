@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\bin\Debug\net9.0\Sign of Integer Numbers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\bin\Debug\net9.0\Sign of Integer Numbers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\bin\Debug\net9.0\Sign of Integer Numbers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\bin\Debug\net9.0\Sign of Integer Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\bin\Debug\net9.0\Sign of Integer Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\obj\Debug\net9.0\Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\obj\Debug\net9.0\Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\obj\Debug\net9.0\Sign of Integer Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\obj\Debug\net9.0\Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\obj\Debug\net9.0\Sign of Integer Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\obj\Debug\net9.0\refint\Sign of Integer Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\obj\Debug\net9.0\Sign of Integer Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\obj\Debug\net9.0\Sign of Integer Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\Sign of Integer Numbers\Sign of Integer Numbers\obj\Debug\net9.0\ref\Sign of Integer Numbers.dll
