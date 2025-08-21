@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\net9.0\Calculate Rectangle Area.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\net9.0\Calculate Rectangle Area.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\net9.0\Calculate Rectangle Area.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\net9.0\Calculate Rectangle Area.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\bin\Debug\net9.0\Calculate Rectangle Area.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\net9.0\Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\net9.0\Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\net9.0\Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\net9.0\Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\net9.0\Calculate Rectangle Area.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\net9.0\refint\Calculate Rectangle Area.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\net9.0\Calculate Rectangle Area.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\net9.0\Calculate Rectangle Area.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Calculate Rectangle Area\Calculate Rectangle Area\obj\Debug\net9.0\ref\Calculate Rectangle Area.dll
