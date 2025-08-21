@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\bin\Debug\net8.0\Volews Count.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\bin\Debug\net8.0\Volews Count.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\bin\Debug\net8.0\Volews Count.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\bin\Debug\net8.0\Volews Count.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\bin\Debug\net8.0\Volews Count.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\obj\Debug\net8.0\Volews Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\obj\Debug\net8.0\Volews Count.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\obj\Debug\net8.0\Volews Count.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\obj\Debug\net8.0\Volews Count.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\obj\Debug\net8.0\Volews Count.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\obj\Debug\net8.0\refint\Volews Count.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\obj\Debug\net8.0\Volews Count.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\obj\Debug\net8.0\Volews Count.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Volews Count\Volews Count\obj\Debug\net8.0\ref\Volews Count.dll
