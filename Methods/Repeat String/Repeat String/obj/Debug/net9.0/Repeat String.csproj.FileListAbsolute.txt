@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\bin\Debug\net9.0\Repeat String.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\bin\Debug\net9.0\Repeat String.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\bin\Debug\net9.0\Repeat String.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\bin\Debug\net9.0\Repeat String.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\bin\Debug\net9.0\Repeat String.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\obj\Debug\net9.0\Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\obj\Debug\net9.0\Repeat String.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\obj\Debug\net9.0\Repeat String.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\obj\Debug\net9.0\Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\obj\Debug\net9.0\Repeat String.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\obj\Debug\net9.0\refint\Repeat String.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\obj\Debug\net9.0\Repeat String.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\obj\Debug\net9.0\Repeat String.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Repeat String\Repeat String\obj\Debug\net9.0\ref\Repeat String.dll

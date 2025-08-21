@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\net9.0\Greater of Two Values.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\net9.0\Greater of Two Values.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\net9.0\Greater of Two Values.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\net9.0\Greater of Two Values.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\bin\Debug\net9.0\Greater of Two Values.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\net9.0\Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\net9.0\Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\net9.0\Greater of Two Values.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\net9.0\Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\net9.0\Greater of Two Values.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\net9.0\refint\Greater of Two Values.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\net9.0\Greater of Two Values.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\net9.0\Greater of Two Values.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Lab\Greater of Two Values\Greater of Two Values\obj\Debug\net9.0\ref\Greater of Two Values.dll
