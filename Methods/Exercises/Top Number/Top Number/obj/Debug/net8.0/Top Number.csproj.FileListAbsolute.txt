@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\bin\Debug\net8.0\Top Number.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\bin\Debug\net8.0\Top Number.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\bin\Debug\net8.0\Top Number.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\bin\Debug\net8.0\Top Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\bin\Debug\net8.0\Top Number.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\obj\Debug\net8.0\Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\obj\Debug\net8.0\Top Number.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\obj\Debug\net8.0\Top Number.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\obj\Debug\net8.0\Top Number.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\obj\Debug\net8.0\Top Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\obj\Debug\net8.0\refint\Top Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\obj\Debug\net8.0\Top Number.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\obj\Debug\net8.0\Top Number.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Top Number\Top Number\obj\Debug\net8.0\ref\Top Number.dll

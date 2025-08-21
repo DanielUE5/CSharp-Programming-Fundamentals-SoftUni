@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\bin\Debug\net8.0\Array Manipulator.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\bin\Debug\net8.0\Array Manipulator.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\bin\Debug\net8.0\Array Manipulator.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\bin\Debug\net8.0\Array Manipulator.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\bin\Debug\net8.0\Array Manipulator.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\obj\Debug\net8.0\Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\obj\Debug\net8.0\Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\obj\Debug\net8.0\Array Manipulator.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\obj\Debug\net8.0\Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\obj\Debug\net8.0\Array Manipulator.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\obj\Debug\net8.0\refint\Array Manipulator.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\obj\Debug\net8.0\Array Manipulator.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\obj\Debug\net8.0\Array Manipulator.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Array Manipulator\Array Manipulator\obj\Debug\net8.0\ref\Array Manipulator.dll
