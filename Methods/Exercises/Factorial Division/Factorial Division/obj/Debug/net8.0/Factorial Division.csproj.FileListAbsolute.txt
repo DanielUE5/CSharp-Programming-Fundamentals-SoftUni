@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\bin\Debug\net8.0\Factorial Division.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\bin\Debug\net8.0\Factorial Division.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\bin\Debug\net8.0\Factorial Division.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\bin\Debug\net8.0\Factorial Division.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\bin\Debug\net8.0\Factorial Division.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\obj\Debug\net8.0\Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\obj\Debug\net8.0\Factorial Division.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\obj\Debug\net8.0\Factorial Division.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\obj\Debug\net8.0\Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\obj\Debug\net8.0\Factorial Division.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\obj\Debug\net8.0\refint\Factorial Division.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\obj\Debug\net8.0\Factorial Division.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\obj\Debug\net8.0\Factorial Division.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Factorial Division\Factorial Division\obj\Debug\net8.0\ref\Factorial Division.dll

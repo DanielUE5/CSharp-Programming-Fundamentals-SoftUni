@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\bin\Debug\net8.0\Palindrome Integers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\bin\Debug\net8.0\Palindrome Integers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\bin\Debug\net8.0\Palindrome Integers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\bin\Debug\net8.0\Palindrome Integers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\bin\Debug\net8.0\Palindrome Integers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\obj\Debug\net8.0\Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\obj\Debug\net8.0\Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\obj\Debug\net8.0\Palindrome Integers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\obj\Debug\net8.0\Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\obj\Debug\net8.0\Palindrome Integers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\obj\Debug\net8.0\refint\Palindrome Integers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\obj\Debug\net8.0\Palindrome Integers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\obj\Debug\net8.0\Palindrome Integers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Methods - Exercises\Palindrome Integers\Palindrome Integers\obj\Debug\net8.0\ref\Palindrome Integers.dll
