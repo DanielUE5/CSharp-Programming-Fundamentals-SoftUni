@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\net9.0\Remove Negatives and Reverse.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\net9.0\Remove Negatives and Reverse.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\net9.0\Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\net9.0\Remove Negatives and Reverse.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\net9.0\Remove Negatives and Reverse.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\net9.0\Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\net9.0\Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\net9.0\Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\net9.0\Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\net9.0\Remove Negatives and Reverse.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\net9.0\refint\Remove Negatives and Reverse.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\net9.0\Remove Negatives and Reverse.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\net9.0\Remove Negatives and Reverse.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\net9.0\ref\Remove Negatives and Reverse.dll

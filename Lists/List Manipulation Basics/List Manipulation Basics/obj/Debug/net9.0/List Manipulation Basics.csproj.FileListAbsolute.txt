@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\net9.0\List Manipulation Basics.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\net9.0\List Manipulation Basics.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\net9.0\List Manipulation Basics.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\net9.0\List Manipulation Basics.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\bin\Debug\net9.0\List Manipulation Basics.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\net9.0\List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\net9.0\List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\net9.0\List Manipulation Basics.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\net9.0\List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\net9.0\List Manipulation Basics.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\net9.0\refint\List Manipulation Basics.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\net9.0\List Manipulation Basics.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\net9.0\List Manipulation Basics.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Lab\List Manipulation Basics\List Manipulation Basics\obj\Debug\net9.0\ref\List Manipulation Basics.dll
