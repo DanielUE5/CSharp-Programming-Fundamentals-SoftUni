@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\bin\Debug\net8.0\House Party.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\bin\Debug\net8.0\House Party.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\bin\Debug\net8.0\House Party.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\bin\Debug\net8.0\House Party.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\bin\Debug\net8.0\House Party.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\obj\Debug\net8.0\House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\obj\Debug\net8.0\House Party.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\obj\Debug\net8.0\House Party.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\obj\Debug\net8.0\House Party.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\obj\Debug\net8.0\House Party.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\obj\Debug\net8.0\refint\House Party.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\obj\Debug\net8.0\House Party.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\obj\Debug\net8.0\House Party.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\House Party\House Party\obj\Debug\net8.0\ref\House Party.dll
