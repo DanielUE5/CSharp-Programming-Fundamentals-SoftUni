@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\bin\Debug\net8.0\List Operations.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\bin\Debug\net8.0\List Operations.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\bin\Debug\net8.0\List Operations.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\bin\Debug\net8.0\List Operations.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\bin\Debug\net8.0\List Operations.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\obj\Debug\net8.0\List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\obj\Debug\net8.0\List Operations.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\obj\Debug\net8.0\List Operations.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\obj\Debug\net8.0\List Operations.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\obj\Debug\net8.0\List Operations.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\obj\Debug\net8.0\refint\List Operations.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\obj\Debug\net8.0\List Operations.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\obj\Debug\net8.0\List Operations.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\List Operations\List Operations\obj\Debug\net8.0\ref\List Operations.dll

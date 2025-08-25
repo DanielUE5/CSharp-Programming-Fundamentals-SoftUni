@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\net8.0\Bomb Numbers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\net8.0\Bomb Numbers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\net8.0\Bomb Numbers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\net8.0\Bomb Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\bin\Debug\net8.0\Bomb Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\net8.0\Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\net8.0\Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\net8.0\Bomb Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\net8.0\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\net8.0\Bomb Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\net8.0\refint\Bomb Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\net8.0\Bomb Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\net8.0\Bomb Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Bomb Numbers\Bomb Numbers\obj\Debug\net8.0\ref\Bomb Numbers.dll
