@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\net8.0\Append Arrays.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\net8.0\Append Arrays.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\net8.0\Append Arrays.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\net8.0\Append Arrays.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\bin\Debug\net8.0\Append Arrays.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\net8.0\Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\net8.0\Append Arrays.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\net8.0\Append Arrays.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\net8.0\Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\net8.0\Append Arrays.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\net8.0\refint\Append Arrays.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\net8.0\Append Arrays.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\net8.0\Append Arrays.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\Append Arrays\Append Arrays\obj\Debug\net8.0\ref\Append Arrays.dll
