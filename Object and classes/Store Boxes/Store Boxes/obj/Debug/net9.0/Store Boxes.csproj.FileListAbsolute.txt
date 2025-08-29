@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\bin\Debug\net9.0\Store Boxes.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\bin\Debug\net9.0\Store Boxes.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\bin\Debug\net9.0\Store Boxes.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\bin\Debug\net9.0\Store Boxes.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\bin\Debug\net9.0\Store Boxes.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\obj\Debug\net9.0\Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\obj\Debug\net9.0\Store Boxes.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\obj\Debug\net9.0\Store Boxes.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\obj\Debug\net9.0\Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\obj\Debug\net9.0\Store Boxes.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\obj\Debug\net9.0\refint\Store Boxes.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\obj\Debug\net9.0\Store Boxes.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\obj\Debug\net9.0\Store Boxes.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Store Boxes\Store Boxes\obj\Debug\net9.0\ref\Store Boxes.dll
