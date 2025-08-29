@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\bin\Debug\net8.0\Order by Age.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\bin\Debug\net8.0\Order by Age.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\bin\Debug\net8.0\Order by Age.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\bin\Debug\net8.0\Order by Age.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\bin\Debug\net8.0\Order by Age.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\obj\Debug\net8.0\Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\obj\Debug\net8.0\Order by Age.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\obj\Debug\net8.0\Order by Age.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\obj\Debug\net8.0\Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\obj\Debug\net8.0\Order by Age.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\obj\Debug\net8.0\refint\Order by Age.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\obj\Debug\net8.0\Order by Age.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\obj\Debug\net8.0\Order by Age.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Order by Age\Order by Age\obj\Debug\net8.0\ref\Order by Age.dll
