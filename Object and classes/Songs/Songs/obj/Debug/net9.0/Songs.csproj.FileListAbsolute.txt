@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\bin\Debug\net9.0\Songs.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\bin\Debug\net9.0\Songs.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\bin\Debug\net9.0\Songs.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\bin\Debug\net9.0\Songs.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\bin\Debug\net9.0\Songs.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\obj\Debug\net9.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\obj\Debug\net9.0\Songs.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\obj\Debug\net9.0\Songs.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\obj\Debug\net9.0\Songs.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\obj\Debug\net9.0\Songs.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\obj\Debug\net9.0\refint\Songs.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\obj\Debug\net9.0\Songs.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\obj\Debug\net9.0\Songs.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Songs\Songs\obj\Debug\net9.0\ref\Songs.dll

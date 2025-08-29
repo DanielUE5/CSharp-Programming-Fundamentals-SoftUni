@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\bin\Debug\net8.0\Big Factorial.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\bin\Debug\net8.0\Big Factorial.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\bin\Debug\net8.0\Big Factorial.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\bin\Debug\net8.0\Big Factorial.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\bin\Debug\net8.0\Big Factorial.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\obj\Debug\net8.0\Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\obj\Debug\net8.0\Big Factorial.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\obj\Debug\net8.0\Big Factorial.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\obj\Debug\net8.0\Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\obj\Debug\net8.0\Big Factorial.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\obj\Debug\net8.0\refint\Big Factorial.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\obj\Debug\net8.0\Big Factorial.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\obj\Debug\net8.0\Big Factorial.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Big Factorial\obj\Debug\net8.0\ref\Big Factorial.dll

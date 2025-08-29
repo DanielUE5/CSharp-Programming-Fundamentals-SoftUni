@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\bin\Debug\net8.0\Randomize Words.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\bin\Debug\net8.0\Randomize Words.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\bin\Debug\net8.0\Randomize Words.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\bin\Debug\net8.0\Randomize Words.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\bin\Debug\net8.0\Randomize Words.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\obj\Debug\net8.0\Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\obj\Debug\net8.0\Randomize Words.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\obj\Debug\net8.0\Randomize Words.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\obj\Debug\net8.0\Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\obj\Debug\net8.0\Randomize Words.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\obj\Debug\net8.0\refint\Randomize Words.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\obj\Debug\net8.0\Randomize Words.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\obj\Debug\net8.0\Randomize Words.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Randomize Words\obj\Debug\net8.0\ref\Randomize Words.dll
