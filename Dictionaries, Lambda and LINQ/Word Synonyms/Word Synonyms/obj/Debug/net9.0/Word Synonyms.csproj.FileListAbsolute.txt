@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\net9.0\Word Synonyms.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\net9.0\Word Synonyms.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\net9.0\Word Synonyms.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\net9.0\Word Synonyms.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\bin\Debug\net9.0\Word Synonyms.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\net9.0\Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\net9.0\Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\net9.0\Word Synonyms.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\net9.0\Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\net9.0\Word Synonyms.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\net9.0\refint\Word Synonyms.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\net9.0\Word Synonyms.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\net9.0\Word Synonyms.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Synonyms\Word Synonyms\obj\Debug\net9.0\ref\Word Synonyms.dll

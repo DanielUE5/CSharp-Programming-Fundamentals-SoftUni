@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\bin\Debug\net9.0\Odd Occurrences.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\bin\Debug\net9.0\Odd Occurrences.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\bin\Debug\net9.0\Odd Occurrences.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\bin\Debug\net9.0\Odd Occurrences.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\bin\Debug\net9.0\Odd Occurrences.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\obj\Debug\net9.0\Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\obj\Debug\net9.0\Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\obj\Debug\net9.0\Odd Occurrences.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\obj\Debug\net9.0\Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\obj\Debug\net9.0\Odd Occurrences.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\obj\Debug\net9.0\refint\Odd Occurrences.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\obj\Debug\net9.0\Odd Occurrences.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\obj\Debug\net9.0\Odd Occurrences.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Odd Occurrences\Odd Occurrences\obj\Debug\net9.0\ref\Odd Occurrences.dll
