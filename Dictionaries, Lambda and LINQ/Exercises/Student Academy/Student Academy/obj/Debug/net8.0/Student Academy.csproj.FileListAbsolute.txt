@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\bin\Debug\net8.0\Student Academy.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\bin\Debug\net8.0\Student Academy.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\bin\Debug\net8.0\Student Academy.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\bin\Debug\net8.0\Student Academy.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\bin\Debug\net8.0\Student Academy.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\obj\Debug\net8.0\Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\obj\Debug\net8.0\Student Academy.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\obj\Debug\net8.0\Student Academy.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\obj\Debug\net8.0\Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\obj\Debug\net8.0\Student Academy.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\obj\Debug\net8.0\refint\Student Academy.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\obj\Debug\net8.0\Student Academy.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\obj\Debug\net8.0\Student Academy.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\Student Academy\Student Academy\obj\Debug\net8.0\ref\Student Academy.dll
