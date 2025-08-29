@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\bin\Debug\net8.0\A Miner Task.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\bin\Debug\net8.0\A Miner Task.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\bin\Debug\net8.0\A Miner Task.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\bin\Debug\net8.0\A Miner Task.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\bin\Debug\net8.0\A Miner Task.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\obj\Debug\net8.0\A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\obj\Debug\net8.0\A Miner Task.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\obj\Debug\net8.0\A Miner Task.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\obj\Debug\net8.0\A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\obj\Debug\net8.0\A Miner Task.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\obj\Debug\net8.0\refint\A Miner Task.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\obj\Debug\net8.0\A Miner Task.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\obj\Debug\net8.0\A Miner Task.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays -Exercises\A Miner Task\A Miner Task\obj\Debug\net8.0\ref\A Miner Task.dll
