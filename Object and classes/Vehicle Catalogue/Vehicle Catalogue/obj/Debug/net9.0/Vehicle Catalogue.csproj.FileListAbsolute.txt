@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\net9.0\Vehicle Catalogue.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\net9.0\Vehicle Catalogue.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\net9.0\Vehicle Catalogue.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\net9.0\Vehicle Catalogue.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\net9.0\Vehicle Catalogue.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\net9.0\Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\net9.0\Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\net9.0\Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\net9.0\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\net9.0\Vehicle Catalogue.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\net9.0\refint\Vehicle Catalogue.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\net9.0\Vehicle Catalogue.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\net9.0\Vehicle Catalogue.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Lab\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\net9.0\ref\Vehicle Catalogue.dll
