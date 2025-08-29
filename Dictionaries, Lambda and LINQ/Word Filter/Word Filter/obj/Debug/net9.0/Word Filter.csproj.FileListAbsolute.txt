@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\net9.0\Word Filter.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\net9.0\Word Filter.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\net9.0\Word Filter.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\net9.0\Word Filter.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\bin\Debug\net9.0\Word Filter.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\net9.0\Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\net9.0\Word Filter.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\net9.0\Word Filter.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\net9.0\Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\net9.0\Word Filter.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\net9.0\refint\Word Filter.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\net9.0\Word Filter.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\net9.0\Word Filter.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\Word Filter\Word Filter\obj\Debug\net9.0\ref\Word Filter.dll
