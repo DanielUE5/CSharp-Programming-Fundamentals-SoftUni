@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\bin\Debug\net8.0\Teamwork Projects.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\bin\Debug\net8.0\Teamwork Projects.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\bin\Debug\net8.0\Teamwork Projects.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\bin\Debug\net8.0\Teamwork Projects.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\bin\Debug\net8.0\Teamwork Projects.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\obj\Debug\net8.0\Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\obj\Debug\net8.0\Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\obj\Debug\net8.0\Teamwork Projects.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\obj\Debug\net8.0\Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\obj\Debug\net8.0\Teamwork Projects.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\obj\Debug\net8.0\refint\Teamwork Projects.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\obj\Debug\net8.0\Teamwork Projects.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\obj\Debug\net8.0\Teamwork Projects.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Object and classes - Exercises\Teamwork Projects\Teamwork Projects\obj\Debug\net8.0\ref\Teamwork Projects.dll
