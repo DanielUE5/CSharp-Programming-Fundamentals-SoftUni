@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\bin\Debug\net9.0\Bit Destroyer.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\bin\Debug\net9.0\Bit Destroyer.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\bin\Debug\net9.0\Bit Destroyer.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\bin\Debug\net9.0\Bit Destroyer.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\bin\Debug\net9.0\Bit Destroyer.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\obj\Debug\net9.0\Bit Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\obj\Debug\net9.0\Bit Destroyer.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\obj\Debug\net9.0\Bit Destroyer.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\obj\Debug\net9.0\Bit Destroyer.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\obj\Debug\net9.0\Bit Destroyer.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\obj\Debug\net9.0\refint\Bit Destroyer.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\obj\Debug\net9.0\Bit Destroyer.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\obj\Debug\net9.0\Bit Destroyer.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit Destroyer\Bit Destroyer\obj\Debug\net9.0\ref\Bit Destroyer.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\bin\Debug\net9.0\Odd Times.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\bin\Debug\net9.0\Odd Times.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\bin\Debug\net9.0\Odd Times.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\bin\Debug\net9.0\Odd Times.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\bin\Debug\net9.0\Odd Times.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\obj\Debug\net9.0\Odd Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\obj\Debug\net9.0\Odd Times.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\obj\Debug\net9.0\Odd Times.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\obj\Debug\net9.0\Odd Times.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\obj\Debug\net9.0\Odd Times.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\obj\Debug\net9.0\refint\Odd Times.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\obj\Debug\net9.0\Odd Times.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\obj\Debug\net9.0\Odd Times.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Odd Times\Odd Times\obj\Debug\net9.0\ref\Odd Times.dll

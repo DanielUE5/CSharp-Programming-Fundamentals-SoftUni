@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\net9.0\Tri-bit Switch.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\net9.0\Tri-bit Switch.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\net9.0\Tri-bit Switch.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\net9.0\Tri-bit Switch.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\bin\Debug\net9.0\Tri-bit Switch.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\net9.0\Tri-bit Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\net9.0\Tri-bit Switch.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\net9.0\Tri-bit Switch.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\net9.0\Tri-bit Switch.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\net9.0\Tri-bit Switch.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\net9.0\refint\Tri-bit Switch.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\net9.0\Tri-bit Switch.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\net9.0\Tri-bit Switch.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Tri-bit Switch\Tri-bit Switch\obj\Debug\net9.0\ref\Tri-bit Switch.dll
