@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\bin\Debug\net9.0\P-th Bit.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\bin\Debug\net9.0\P-th Bit.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\bin\Debug\net9.0\P-th Bit.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\bin\Debug\net9.0\P-th Bit.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\bin\Debug\net9.0\P-th Bit.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\obj\Debug\net9.0\P-th Bit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\obj\Debug\net9.0\P-th Bit.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\obj\Debug\net9.0\P-th Bit.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\obj\Debug\net9.0\P-th Bit.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\obj\Debug\net9.0\P-th Bit.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\obj\Debug\net9.0\refint\P-th Bit.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\obj\Debug\net9.0\P-th Bit.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\obj\Debug\net9.0\P-th Bit.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\P-th Bit\P-th Bit\obj\Debug\net9.0\ref\P-th Bit.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\bin\Debug\net9.0\Binary Digits Count.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\bin\Debug\net9.0\Binary Digits Count.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\bin\Debug\net9.0\Binary Digits Count.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\bin\Debug\net9.0\Binary Digits Count.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\bin\Debug\net9.0\Binary Digits Count.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\obj\Debug\net9.0\Binary Digits Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\obj\Debug\net9.0\Binary Digits Count.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\obj\Debug\net9.0\Binary Digits Count.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\obj\Debug\net9.0\Binary Digits Count.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\obj\Debug\net9.0\Binary Digits Count.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\obj\Debug\net9.0\refint\Binary Digits Count.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\obj\Debug\net9.0\Binary Digits Count.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\obj\Debug\net9.0\Binary Digits Count.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Binary Digits Count\Binary Digits Count\obj\Debug\net9.0\ref\Binary Digits Count.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\bin\Debug\net9.0\Bit at Position 1.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\bin\Debug\net9.0\Bit at Position 1.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\bin\Debug\net9.0\Bit at Position 1.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\bin\Debug\net9.0\Bit at Position 1.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\bin\Debug\net9.0\Bit at Position 1.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\obj\Debug\net9.0\Bit at Position 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\obj\Debug\net9.0\Bit at Position 1.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\obj\Debug\net9.0\Bit at Position 1.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\obj\Debug\net9.0\Bit at Position 1.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\obj\Debug\net9.0\Bit at Position 1.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\obj\Debug\net9.0\refint\Bit at Position 1.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\obj\Debug\net9.0\Bit at Position 1.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\obj\Debug\net9.0\Bit at Position 1.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\Bit at Position 1\Bit at Position 1\obj\Debug\net9.0\ref\Bit at Position 1.dll
