@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\bin\Debug\net8.0\Caesar Cipher.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\bin\Debug\net8.0\Caesar Cipher.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\bin\Debug\net8.0\Caesar Cipher.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\bin\Debug\net8.0\Caesar Cipher.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\bin\Debug\net8.0\Caesar Cipher.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\obj\Debug\net8.0\Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\obj\Debug\net8.0\Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\obj\Debug\net8.0\Caesar Cipher.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\obj\Debug\net8.0\Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\obj\Debug\net8.0\Caesar Cipher.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\obj\Debug\net8.0\refint\Caesar Cipher.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\obj\Debug\net8.0\Caesar Cipher.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\obj\Debug\net8.0\Caesar Cipher.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Caesar Cipher\Caesar Cipher\obj\Debug\net8.0\ref\Caesar Cipher.dll

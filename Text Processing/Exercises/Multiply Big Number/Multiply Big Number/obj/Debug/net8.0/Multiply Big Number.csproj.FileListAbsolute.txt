@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\bin\Debug\net8.0\Multiply Big Number.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\bin\Debug\net8.0\Multiply Big Number.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\bin\Debug\net8.0\Multiply Big Number.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\bin\Debug\net8.0\Multiply Big Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\bin\Debug\net8.0\Multiply Big Number.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\obj\Debug\net8.0\Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\obj\Debug\net8.0\Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\obj\Debug\net8.0\Multiply Big Number.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\obj\Debug\net8.0\Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\obj\Debug\net8.0\Multiply Big Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\obj\Debug\net8.0\refint\Multiply Big Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\obj\Debug\net8.0\Multiply Big Number.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\obj\Debug\net8.0\Multiply Big Number.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Multiply Big Number\Multiply Big Number\obj\Debug\net8.0\ref\Multiply Big Number.dll
