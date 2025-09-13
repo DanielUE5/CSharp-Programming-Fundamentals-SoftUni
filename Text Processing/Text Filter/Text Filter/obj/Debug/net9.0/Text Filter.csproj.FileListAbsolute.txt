@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\net9.0\Text Filter.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\net9.0\Text Filter.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\net9.0\Text Filter.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\net9.0\Text Filter.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\bin\Debug\net9.0\Text Filter.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\net9.0\Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\net9.0\Text Filter.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\net9.0\Text Filter.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\net9.0\Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\net9.0\Text Filter.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\net9.0\refint\Text Filter.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\net9.0\Text Filter.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\net9.0\Text Filter.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Text Filter\Text Filter\obj\Debug\net9.0\ref\Text Filter.dll
