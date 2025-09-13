@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\bin\Debug\net9.0\Reverse Strings.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\bin\Debug\net9.0\Reverse Strings.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\bin\Debug\net9.0\Reverse Strings.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\bin\Debug\net9.0\Reverse Strings.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\bin\Debug\net9.0\Reverse Strings.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\obj\Debug\net9.0\Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\obj\Debug\net9.0\Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\obj\Debug\net9.0\Reverse Strings.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\obj\Debug\net9.0\Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\obj\Debug\net9.0\Reverse Strings.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\obj\Debug\net9.0\refint\Reverse Strings.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\obj\Debug\net9.0\Reverse Strings.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\obj\Debug\net9.0\Reverse Strings.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Reverse Strings\Reverse Strings\obj\Debug\net9.0\ref\Reverse Strings.dll

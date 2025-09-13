@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\net9.0\Repeat Strings.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\net9.0\Repeat Strings.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\net9.0\Repeat Strings.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\net9.0\Repeat Strings.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\bin\Debug\net9.0\Repeat Strings.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\net9.0\Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\net9.0\Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\net9.0\Repeat Strings.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\net9.0\Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\net9.0\Repeat Strings.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\net9.0\refint\Repeat Strings.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\net9.0\Repeat Strings.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\net9.0\Repeat Strings.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\Repeat Strings\Repeat Strings\obj\Debug\net9.0\ref\Repeat Strings.dll
