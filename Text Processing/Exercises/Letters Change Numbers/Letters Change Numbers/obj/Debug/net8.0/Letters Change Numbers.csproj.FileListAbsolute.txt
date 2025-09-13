@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\bin\Debug\net8.0\Letters Change Numbers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\bin\Debug\net8.0\Letters Change Numbers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\bin\Debug\net8.0\Letters Change Numbers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\bin\Debug\net8.0\Letters Change Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\bin\Debug\net8.0\Letters Change Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\obj\Debug\net8.0\Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\obj\Debug\net8.0\Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\obj\Debug\net8.0\Letters Change Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\obj\Debug\net8.0\Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\obj\Debug\net8.0\Letters Change Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\obj\Debug\net8.0\refint\Letters Change Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\obj\Debug\net8.0\Letters Change Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\obj\Debug\net8.0\Letters Change Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Letters Change Numbers\Letters Change Numbers\obj\Debug\net8.0\ref\Letters Change Numbers.dll

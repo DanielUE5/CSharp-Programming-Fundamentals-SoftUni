@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\bin\Debug\net8.0\String Explosion.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\bin\Debug\net8.0\String Explosion.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\bin\Debug\net8.0\String Explosion.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\bin\Debug\net8.0\String Explosion.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\bin\Debug\net8.0\String Explosion.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\obj\Debug\net8.0\String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\obj\Debug\net8.0\String Explosion.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\obj\Debug\net8.0\String Explosion.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\obj\Debug\net8.0\String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\obj\Debug\net8.0\String Explosion.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\obj\Debug\net8.0\refint\String Explosion.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\obj\Debug\net8.0\String Explosion.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\obj\Debug\net8.0\String Explosion.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\String Explosion\String Explosion\obj\Debug\net8.0\ref\String Explosion.dll
