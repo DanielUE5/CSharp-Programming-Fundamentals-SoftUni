@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\bin\Debug\net8.0\Character Multiplier.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\bin\Debug\net8.0\Character Multiplier.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\bin\Debug\net8.0\Character Multiplier.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\bin\Debug\net8.0\Character Multiplier.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\bin\Debug\net8.0\Character Multiplier.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\obj\Debug\net8.0\Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\obj\Debug\net8.0\Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\obj\Debug\net8.0\Character Multiplier.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\obj\Debug\net8.0\Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\obj\Debug\net8.0\Character Multiplier.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\obj\Debug\net8.0\refint\Character Multiplier.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\obj\Debug\net8.0\Character Multiplier.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\obj\Debug\net8.0\Character Multiplier.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Character Multiplier\Character Multiplier\obj\Debug\net8.0\ref\Character Multiplier.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\bin\Debug\net8.0\Extract File.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\bin\Debug\net8.0\Extract File.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\bin\Debug\net8.0\Extract File.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\bin\Debug\net8.0\Extract File.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\bin\Debug\net8.0\Extract File.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\obj\Debug\net8.0\Extract File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\obj\Debug\net8.0\Extract File.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\obj\Debug\net8.0\Extract File.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\obj\Debug\net8.0\Extract File.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\obj\Debug\net8.0\Extract File.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\obj\Debug\net8.0\refint\Extract File.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\obj\Debug\net8.0\Extract File.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\obj\Debug\net8.0\Extract File.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercises\Extract File\Extract File\obj\Debug\net8.0\ref\Extract File.dll
