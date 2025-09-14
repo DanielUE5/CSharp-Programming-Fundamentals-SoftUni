@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\bin\Debug\net9.0\Extract Emails.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\bin\Debug\net9.0\Extract Emails.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\bin\Debug\net9.0\Extract Emails.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\bin\Debug\net9.0\Extract Emails.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\bin\Debug\net9.0\Extract Emails.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\obj\Debug\net9.0\Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\obj\Debug\net9.0\Extract Emails.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\obj\Debug\net9.0\Extract Emails.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\obj\Debug\net9.0\Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\obj\Debug\net9.0\Extract Emails.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\obj\Debug\net9.0\refint\Extract Emails.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\obj\Debug\net9.0\Extract Emails.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\obj\Debug\net9.0\Extract Emails.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Extract Emails\Extract Emails\obj\Debug\net9.0\ref\Extract Emails.dll

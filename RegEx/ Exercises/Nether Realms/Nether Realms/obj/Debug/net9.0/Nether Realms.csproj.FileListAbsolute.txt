@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\bin\Debug\net9.0\Nether Realms.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\bin\Debug\net9.0\Nether Realms.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\bin\Debug\net9.0\Nether Realms.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\bin\Debug\net9.0\Nether Realms.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\bin\Debug\net9.0\Nether Realms.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\obj\Debug\net9.0\Nether Realms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\obj\Debug\net9.0\Nether Realms.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\obj\Debug\net9.0\Nether Realms.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\obj\Debug\net9.0\Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\obj\Debug\net9.0\Nether Realms.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\obj\Debug\net9.0\refint\Nether Realms.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\obj\Debug\net9.0\Nether Realms.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\obj\Debug\net9.0\Nether Realms.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Nether Realms\Nether Realms\obj\Debug\net9.0\ref\Nether Realms.dll

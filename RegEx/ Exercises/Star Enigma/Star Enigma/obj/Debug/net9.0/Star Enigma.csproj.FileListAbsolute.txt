@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\bin\Debug\net9.0\Star Enigma.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\bin\Debug\net9.0\Star Enigma.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\bin\Debug\net9.0\Star Enigma.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\bin\Debug\net9.0\Star Enigma.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\bin\Debug\net9.0\Star Enigma.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\obj\Debug\net9.0\Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\obj\Debug\net9.0\Star Enigma.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\obj\Debug\net9.0\Star Enigma.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\obj\Debug\net9.0\Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\obj\Debug\net9.0\Star Enigma.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\obj\Debug\net9.0\refint\Star Enigma.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\obj\Debug\net9.0\Star Enigma.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\obj\Debug\net9.0\Star Enigma.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Exercises\Star Enigma\Star Enigma\obj\Debug\net9.0\ref\Star Enigma.dll
