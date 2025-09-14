@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\net9.0\Match Dates.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\net9.0\Match Dates.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\net9.0\Match Dates.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\net9.0\Match Dates.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\bin\Debug\net9.0\Match Dates.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\net9.0\Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\net9.0\Match Dates.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\net9.0\Match Dates.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\net9.0\Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\net9.0\Match Dates.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\net9.0\refint\Match Dates.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\net9.0\Match Dates.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\net9.0\Match Dates.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Dates\Match Dates\obj\Debug\net9.0\ref\Match Dates.dll

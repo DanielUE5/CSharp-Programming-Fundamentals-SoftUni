@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\net9.0\Match Full Name.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\net9.0\Match Full Name.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\net9.0\Match Full Name.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\net9.0\Match Full Name.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\bin\Debug\net9.0\Match Full Name.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\net9.0\Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\net9.0\Match Full Name.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\net9.0\Match Full Name.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\net9.0\Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\net9.0\Match Full Name.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\net9.0\refint\Match Full Name.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\net9.0\Match Full Name.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\net9.0\Match Full Name.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Full Name\Match Full Name\obj\Debug\net9.0\ref\Match Full Name.dll

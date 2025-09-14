@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\net9.0\Match Phone Number.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\net9.0\Match Phone Number.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\net9.0\Match Phone Number.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\net9.0\Match Phone Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\bin\Debug\net9.0\Match Phone Number.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\net9.0\Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\net9.0\Match Phone Number.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\net9.0\Match Phone Number.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\net9.0\Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\net9.0\Match Phone Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\net9.0\refint\Match Phone Number.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\net9.0\Match Phone Number.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\net9.0\Match Phone Number.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Fundamentals\Regular Expressions - Lab\Match Phone Number\Match Phone Number\obj\Debug\net9.0\ref\Match Phone Number.dll
